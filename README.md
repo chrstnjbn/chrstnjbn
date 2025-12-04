@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Christina</h1>
+<h1 align="center">Hi 👋, Christina Here...</h1>
 <h3 align="center">Fresher software developer with a strong interest in web development and continuous learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/22228251/file/original-dd4133b41bcb1d2cef1679f2395ac06a.gif">
 - 🌱 I’m currently learning **Full Stack development**
