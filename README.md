@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Christina</h1>
 <h3 align="center">Fresher software developer with a strong interest in web development and continuous learning.</h3>
-<img aligh="right" alt="Coding" width="400" src="https://dribbble.com/shots/2413754-Coding">
+<img aligh="right" alt="Coding" width="400" src="[https://dribbble.com/shots/2413754-Coding](https://cdn.dribbble.com/userupload/41784761/file/original-a61a9e3e4588d69413bf0c7e35853cfc.gif)">
 - 🌱 I’m currently learning **Full Stack development**
 
 - 💬 Ask me about **building simple web apps, frontend development, or project ideas.**
